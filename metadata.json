@@ -1,0 +1,5 @@
+{
+  "name": "Notion Workflow Sync",
+  "description": "A modern Notion-style web application for managing painting team workflows, syncing Excel data to Notion.",
+  "requestFramePermissions": []
+}
